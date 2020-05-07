@@ -9,6 +9,7 @@ def search(nums, n):
     i = i + 1
   return False
 
+
 nums = [8, 4, 2, 1, 9, 5]
 n = 2
 
